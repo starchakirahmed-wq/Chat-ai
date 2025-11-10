@@ -1,0 +1,8 @@
+{
+  "name": "1CHAT AI",
+  "description": "An all-in-one application showcasing the power of the Gemini API, including advanced chat, image generation and analysis, web search grounding, text-to-speech, and real-time voice conversations.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
